@@ -1,3 +1,3 @@
-# C++ Learning
+# Programming Learning
 
-## I'm learning C++ and i create this repository to show my codes.
+## I'm learning various programming languages and i create this repository to show my codes.
