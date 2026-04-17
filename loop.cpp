@@ -3,13 +3,13 @@
 
 int main(int argc, char *argv[]) {
 
-  std::string Text = "";
+  std::string text;
 
   std::cout << "Type a text: ";
-  std::cin >> Text;
+  std::getline(std::cin, text);
 
   for (int i = 0; i < 100; i++) {
-    std::cout << Text << "\n";
+    std::cout << text << "\n";
   }
 
   return 0;
